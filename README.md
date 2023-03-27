@@ -1,5 +1,5 @@
 # 💫 About Me:
-:fire: I'm currently working on GitFire mobile app<br>:books: I'm currently learning Flutter Framework<br>Ask me any questions related to Flutter<br>In the past I was engaged in android development<br>I will be happy to participate in interesting projects
+:fire: I'm currently working on GitFire mobile app<br>:books: I'm currently learning Flutter Framework<br>:question: Ask me any questions related to Flutter<br>:iphone: In the past I was engaged in android development<br>:cloud: I will be happy to participate in interesting projects
 
 
 ## 🌐 Socials:
